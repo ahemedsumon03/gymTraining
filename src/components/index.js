@@ -1,0 +1,12 @@
+export { default as NavBar } from './NavBar';
+export { default as Footer } from './Footer';
+export { default as HeroBanner } from './HeroBanner';
+export { default as SearchExcersizes } from './SearchExcersizes';
+export { default as HoriZontalScrollBar } from './HoriZontalScrollBar';
+export { default as BodyPart } from './BodyPart';
+export { default as ExcerSizeCard } from './ExcerSizeCard';
+export { default as Excersizes } from './Excersizes';
+export { default as Loader } from './Loader';
+export { default as Detail } from './Detail';
+export { default as ExcersizeVideo } from './ExcersizeVideo';
+export { default as SimilarExcersize } from './SimilarExcersize';
